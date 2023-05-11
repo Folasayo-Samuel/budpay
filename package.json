@@ -1,0 +1,20 @@
+{
+  "name": "budpay",
+  "version": "1.0.0",
+  "description": "A Node.js library for integrating Budpay into your applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "budpay",
+    "payment",
+    "node.js",
+    "library"
+  ],
+  "author": "Your Name <your-email@example.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
