@@ -12,7 +12,7 @@
     "node.js",
     "library"
   ],
-  "author": "Your Name <your-email@example.com>",
+  "author": "Saint Vandora",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.0.4"
