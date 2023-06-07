@@ -1,6 +1,6 @@
 const https = require("https");
 
-const API_BASE_URL = "https://api.budpay.com/v1";
+const API_BASE_URL = "https://api.budpay.com/api/v2";
 
 class BudpayClient {
   constructor(apiKey, secretKey) {
